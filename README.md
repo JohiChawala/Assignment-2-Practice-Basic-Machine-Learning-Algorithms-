@@ -22,9 +22,8 @@ Age (years).
 
 Class variable (0 or 1).
 
-Your tasks are summarized below, 
 
-
+# Your tasks are summarized below, 
 
 load the dataset and assign columns proper names as mentioned above
 
